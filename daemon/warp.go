@@ -4,9 +4,9 @@ import (
 	"context"
 	"sync"
 
-	"github.com/spolu/warp"
-	"github.com/spolu/warp/lib/logging"
-	"github.com/spolu/warp/lib/plex"
+	"github.com/ghetzel/warp"
+	"github.com/ghetzel/warp/lib/logging"
+	"github.com/ghetzel/warp/lib/plex"
 )
 
 // Warp represents a pty served from a remote host attached to a token.

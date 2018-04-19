@@ -3,9 +3,9 @@ package main
 import (
 	"os"
 
-	"github.com/spolu/warp/client"
-	_ "github.com/spolu/warp/client/command"
-	"github.com/spolu/warp/lib/out"
+	"github.com/ghetzel/warp/client"
+	_ "github.com/ghetzel/warp/client/command"
+	"github.com/ghetzel/warp/lib/out"
 )
 
 func main() {

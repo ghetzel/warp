@@ -7,9 +7,9 @@ import (
 	"net"
 	"sync"
 
-	"github.com/spolu/warp"
-	"github.com/spolu/warp/lib/errors"
-	"github.com/spolu/warp/lib/logging"
+	"github.com/ghetzel/warp"
+	"github.com/ghetzel/warp/lib/errors"
+	"github.com/ghetzel/warp/lib/logging"
 )
 
 // Srv represents a running warpd server.

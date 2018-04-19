@@ -8,8 +8,8 @@ import (
 	"path/filepath"
 
 	homedir "github.com/mitchellh/go-homedir"
-	"github.com/spolu/warp/lib/errors"
-	"github.com/spolu/warp/lib/token"
+	"github.com/ghetzel/warp/lib/errors"
+	"github.com/ghetzel/warp/lib/token"
 )
 
 // Credentials repesents the credentials of the currently logged in user.

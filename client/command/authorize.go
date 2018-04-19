@@ -6,10 +6,10 @@ import (
 	"os"
 	"strings"
 
-	"github.com/spolu/warp"
-	"github.com/spolu/warp/client"
-	"github.com/spolu/warp/lib/errors"
-	"github.com/spolu/warp/lib/out"
+	"github.com/ghetzel/warp"
+	"github.com/ghetzel/warp/client"
+	"github.com/ghetzel/warp/lib/errors"
+	"github.com/ghetzel/warp/lib/out"
 )
 
 const (

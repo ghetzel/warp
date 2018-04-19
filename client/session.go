@@ -9,8 +9,8 @@ import (
 	"time"
 
 	"github.com/hashicorp/yamux"
-	"github.com/spolu/warp"
-	"github.com/spolu/warp/lib/errors"
+	"github.com/ghetzel/warp"
+	"github.com/ghetzel/warp/lib/errors"
 )
 
 // Session represents a session to warpd as part of a client or a host. All

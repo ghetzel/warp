@@ -5,7 +5,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/spolu/warp/lib/errors"
+	"github.com/ghetzel/warp/lib/errors"
 )
 
 // CmdName represents a command name.

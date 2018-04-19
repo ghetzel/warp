@@ -3,9 +3,9 @@ package command
 import (
 	"context"
 
-	"github.com/spolu/warp"
-	"github.com/spolu/warp/client"
-	"github.com/spolu/warp/lib/out"
+	"github.com/ghetzel/warp"
+	"github.com/ghetzel/warp/client"
+	"github.com/ghetzel/warp/lib/out"
 )
 
 const (

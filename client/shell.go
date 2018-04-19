@@ -4,7 +4,7 @@ import (
 	"context"
 	"os"
 
-	"github.com/spolu/warp/lib/errors"
+	"github.com/ghetzel/warp/lib/errors"
 )
 
 type Shell struct {

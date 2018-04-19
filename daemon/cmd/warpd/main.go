@@ -8,10 +8,10 @@ import (
 	"runtime/pprof"
 	"time"
 
-	"github.com/spolu/warp"
-	"github.com/spolu/warp/daemon"
-	"github.com/spolu/warp/lib/errors"
-	"github.com/spolu/warp/lib/logging"
+	"github.com/ghetzel/warp"
+	"github.com/ghetzel/warp/daemon"
+	"github.com/ghetzel/warp/lib/errors"
+	"github.com/ghetzel/warp/lib/logging"
 )
 
 var lstFlag string

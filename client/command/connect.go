@@ -10,12 +10,12 @@ import (
 
 	"golang.org/x/crypto/ssh/terminal"
 
-	"github.com/spolu/warp"
-	"github.com/spolu/warp/client"
-	"github.com/spolu/warp/lib/errors"
-	"github.com/spolu/warp/lib/out"
-	"github.com/spolu/warp/lib/plex"
-	"github.com/spolu/warp/lib/token"
+	"github.com/ghetzel/warp"
+	"github.com/ghetzel/warp/client"
+	"github.com/ghetzel/warp/lib/errors"
+	"github.com/ghetzel/warp/lib/out"
+	"github.com/ghetzel/warp/lib/plex"
+	"github.com/ghetzel/warp/lib/token"
 )
 
 const (

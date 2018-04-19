@@ -1,8 +1,8 @@
 package cli
 
 import (
-	"github.com/spolu/warp"
-	"github.com/spolu/warp/lib/errors"
+	"github.com/ghetzel/warp"
+	"github.com/ghetzel/warp/lib/errors"
 )
 
 // WarpState repreents the state of a warp client side. The warp state method

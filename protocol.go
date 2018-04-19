@@ -10,7 +10,7 @@ import "regexp"
 var Version = "0.0.3"
 
 // DefaultAddress to connect to
-var DefaultAddress = "warp.link:4242"
+var DefaultAddress = "warp.gammazeta.net:2087"
 
 // WarpRegexp warp token regular expression.
 var WarpRegexp = regexp.MustCompile("^[a-zA-Z0-9][a-zA-Z0-9-_.]{0,255}$")

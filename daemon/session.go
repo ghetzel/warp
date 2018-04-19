@@ -9,9 +9,9 @@ import (
 	"time"
 
 	"github.com/hashicorp/yamux"
-	"github.com/spolu/warp"
-	"github.com/spolu/warp/lib/errors"
-	"github.com/spolu/warp/lib/logging"
+	"github.com/ghetzel/warp"
+	"github.com/ghetzel/warp/lib/errors"
+	"github.com/ghetzel/warp/lib/logging"
 )
 
 // Session represents a client session connected to the warp.

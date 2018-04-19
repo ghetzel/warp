@@ -8,9 +8,9 @@ import (
 	"os"
 	"path"
 
-	"github.com/spolu/warp"
-	"github.com/spolu/warp/lib/errors"
-	"github.com/spolu/warp/lib/out"
+	"github.com/ghetzel/warp"
+	"github.com/ghetzel/warp/lib/errors"
+	"github.com/ghetzel/warp/lib/out"
 )
 
 // RunLocalCommand runs a local in-warp command and returns the result. If an
